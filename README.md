@@ -4,4 +4,4 @@
 
 Feel free to say anything you want about it, to see how I did, and try to do yourself.
 
-the code is in portuguese (but it's not so hard, to figure out what it does, if you're not a completely beginners, which is not my case)
+the code is in portuguese (but it's not so hard, to figure out what it does, if you're not a completely beginner, which is not my case)
